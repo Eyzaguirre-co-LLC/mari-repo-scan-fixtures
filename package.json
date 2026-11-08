@@ -1,0 +1,9 @@
+{
+  "name": "mari-repo-scan-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "ms": "2.1.3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "kind": "app",
+  "title": "Scan fixture",
+  "text": "A one-page static site, the repo gatekeeper's known-good fixture.",
+  "run": ".",
+  "open": "/"
+}
